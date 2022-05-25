@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Ahmed F. Al-Refaie",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "ahmed.f.alrefaie@gmail.com",
+  "friendly_name": "Maweid",
+  "github_user": "ahmed-f-alrefaie",
+  "license": "MIT",
+  "package_name": "maweid",
+  "project_name": "maweid",
+  "version": "0.0.0"
+}
